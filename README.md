@@ -1,4 +1,8 @@
 ## Hi there 👋
+💻 Software Engineering Student | Python & Data-Driven Apps  
+📊 Building desktop tools with tkinter, pandas, and matplotlib  
+🧪 Past experience in biotechnology and pharmaceutical industries
+
 
 <!--
 **michael-womack/michael-womack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +30,11 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-F48024?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-00A1E0?style=for-the-badge&logo=sap&logoColor=white)
 ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-1B365D?style=for-the-badge&logoColor=white)
+
+## **Enterprise Tools:**
+
+![Omnissa Horizon](https://img.shields.io/badge/Omnissa_Horizon-F3D547?style=for-the-badge&color=F3D547&labelColor=C9B22E&logoColor=000000)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-E94B3C?style=for-the-badge&color=E94B3C&labelColor=B63B30&logoColor=FFFFFF)
+![LIMS](https://img.shields.io/badge/LIMS-8E44AD?style=for-the-badge&color=8E44AD&labelColor=6E3283&logoColor=FFFFFF)
+
+
