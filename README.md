@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 Software Engineering Student | Python & Data-Driven Apps  
+💻 Software Engineering Student | Data Science & Data-Driven Apps  
 📊 Building desktop tools with tkinter, pandas, and matplotlib  
 🧪 Past experience in biotechnology and pharmaceutical industries
 
