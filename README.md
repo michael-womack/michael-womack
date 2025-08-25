@@ -1,7 +1,7 @@
 ## Hi there 👋
-💻 Software Engineering Student | Data Science & Data-Driven Apps  
+💻 B.S. Computer Science in progress | Data Science & Data-Driven Apps  
 📊 Building desktop tools with tkinter, pandas, and matplotlib  
-🧪 Past experience in biotechnology and pharmaceutical industries
+🧪 Experience in biotechnology and pharmaceutical industries
 
 
 <!--
