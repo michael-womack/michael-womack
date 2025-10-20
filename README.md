@@ -1,6 +1,5 @@
 ## Hi there 👋
 💻 B.S. Computer Science in progress | Data Science & Data-Driven Apps  
-📊 Building desktop tools with tkinter, pandas, and matplotlib  
 🧪 Experience in biotechnology and pharmaceutical industries
 
 
