@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 B.S. Computer Science in progress | Data Science & Data-Driven Apps  
+💻 B.S. Computer Science in progress
 🧪 Experience in biotechnology and pharmaceutical industries
 
 
