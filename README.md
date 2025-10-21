@@ -1,5 +1,6 @@
 ## Hi there 👋
 💻 B.S. Computer Science in progress
+
 🧪 Experience in biotechnology and pharmaceutical industries
 
 
