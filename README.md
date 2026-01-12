@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 ## **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F48024?style=for-the-badge&logo=openjdk&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-00A1E0?style=for-the-badge&logo=sap&logoColor=white)
 ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-1B365D?style=for-the-badge&logoColor=white)
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 
 ## **Enterprise Tools:**
 
@@ -36,6 +39,7 @@ Here are some ideas to get you started:
 ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-EAB308?style=for-the-badge&labelColor=CA8A04&color=EAB308)
 ![SCADA](https://img.shields.io/badge/SCADA-E11D48?style=for-the-badge&labelColor=B91C1C&color=E11D48)
 ![LIMS](https://img.shields.io/badge/LIMS-10B981?style=for-the-badge&labelColor=059669&color=10B981)
+![SAP](https://img.shields.io/badge/SAP-00A1E0?style=for-the-badge&logo=sap&logoColor=white)
 
 
 
