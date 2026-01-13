@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-1B365D?style=for-the-badge&logoColor=white)
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 
 ## **Enterprise Tools:**
